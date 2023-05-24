@@ -2,7 +2,7 @@
 
 A compilation of the notes taken during the 3 days 'Architecting on AWS' course.
 
-This 3 day course by AWS is designed to help you identify AWS services, compare features, and explore best practices to architect resilient, secure, and highly available IT solutions on AWS
+This 3 day course by AWS is designed to help you identify AWS services, compare features, and explore best practices to architect resilient, secure, and highly available IT solutions on AWS.
 
 The whole course is essentially split into three parts:
 
