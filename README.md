@@ -38,3 +38,7 @@ The schedule of the 3 days course is summarized as below.
 
 The notes/resources here in this repository can be used to prepare you for the [AWS Solutions Architect Associate Certification Exam](https://aws.amazon.com/certification/certified-solutions-architect-associate/).
 
+## References
+
+[Architecting on AWS (Classroom) - 3 Days Training](https://aws.amazon.com/training/classroom/architecting-on-aws/)
+
